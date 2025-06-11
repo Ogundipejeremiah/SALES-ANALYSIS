@@ -22,9 +22,10 @@ The goal was to analyze product sales and profitability across different categor
 
 - **Total Sales**: ₦2,297,201  
 - **Total Profit**: ₦286,397  
-- **Profit Ratio**: 12.5%
+- **Total Quantity Sold**: 3,279
 
-➡️ While revenue is strong, the low profit ratio suggests operational inefficiencies or discount-heavy strategies.
+➡️ While revenue is strong, profit is modest. Further investigation into low-performing products and high quantity with low profit is needed.
+
 
 ---
 
