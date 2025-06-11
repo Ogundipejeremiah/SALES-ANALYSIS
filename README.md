@@ -17,14 +17,16 @@ The goal was to analyze product sales and profitability across different categor
 - How efficient is the business overall?
 
 ---
-
 ### 🔑 KPI Highlights
 
-- **Total Sales**: ₦2,297,201  
-- **Total Profit**: ₦286,397  
-- **Total Quantity Sold**: 3,279
+- **Total Sales**: $746K  
+- **Total Profit**: $96K  
+- **Total Quantity Sold**: 13K
 
-➡️ While revenue is strong, profit is modest. Further investigation into low-performing products and high quantity with low profit is needed.
+➡️ While total revenue is strong at $746K, the profit of $96K reflects a modest margin. Quantity sold is high at 13K, indicating strong sales activity, but further analysis is needed to improve profitability.
+
+
+
 
 
 ---
